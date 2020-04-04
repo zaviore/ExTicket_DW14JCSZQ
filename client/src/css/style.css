@@ -1,0 +1,156 @@
+.navbar {
+  background-color: white;
+  box-shadow: 5 px 5px 5px 5px black;
+}
+.footer {
+  background-color: #3f3d56;
+  box-shadow: 10 px 1px 1px 1px #3f3d56;
+}
+
+.Jumbo {
+  background-color: #3f3d56;
+  height: 400px;
+}
+.Left-body {
+  height: 100%;
+}
+
+.jumboT {
+  margin-left: 20px;
+}
+.landingTitle {
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 1.2;
+  color: white;
+}
+
+.regisButton {
+  height: 40px;
+  background-color: white;
+  color: #6c63ff;
+  border-color: #6c63ff;
+  border-radius: 4px;
+}
+
+.regisButton:hover {
+  height: 40px;
+  color: white;
+  background-color: #6c63ff;
+  border-color: #6c63ff;
+}
+
+.loginButton {
+  height: 40px;
+  border-radius: 4px;
+  background-color: #6c63ff;
+  color: white;
+}
+
+.searchButton {
+  height: 40px;
+  border-radius: 4px;
+  background-color: #6c63ff;
+  color: white;
+}
+
+.loginButton:hover {
+  height: 40px;
+  border-radius: 4px;
+  background-color: white;
+  color: #6c63ff;
+  border-color: #6c63ff;
+}
+
+.bayarTicket {
+  width: 120px;
+  height: 35px;
+  border-radius: 4px;
+  background-color: #6c63ff;
+  color: white;
+}
+
+.bayarTicket:hover {
+  height: 35px;
+  border-radius: 4px;
+  background-color: white;
+  color: #6c63ff;
+  border-color: #6c63ff;
+}
+#moveJumbo {
+  margin-left: 50px;
+  height: 550px;
+}
+.Ticket {
+  margin-top: -30px;
+  background-color: white;
+  width: 90%;
+  border-radius: 4px;
+  box-shadow: 1px 1px 1px 1px #3f3d56;
+}
+#tableTicket {
+  width: 80%;
+  height: auto;
+  margin-left: 50px;
+  margin-top: 40px;
+}
+
+.table-bordered td,
+.table-bordered th {
+  border: 0px !important;
+}
+
+.borderTiket {
+  margin: auto;
+  height: 200px;
+}
+
+.node {
+  height: 10px;
+  width: 10px;
+  border-radius: 10%;
+  display: inline-block;
+  transition: all 1000ms ease;
+}
+
+.activated {
+  box-shadow: 0px 0px 3px 2px rgba(194, 255, 194, 0.8);
+}
+
+.divider {
+  height: 40px;
+  width: 2px;
+  margin-left: 4px;
+  transition: all 800ms ease;
+}
+
+li p {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+li {
+  list-style: none;
+  line-height: 1px;
+}
+
+.red {
+  background-color: #6c63ff;
+}
+.grey {
+  background-color: rgba(201, 201, 201, 1);
+}
+
+.ticketclient {
+  box-shadow: 1px 1px 1px 1px #3f3d56;
+}
+
+.indexTicket {
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+
+.modal-90w {
+  max-width: 70% !important;
+  width: 50% !important;
+}
